@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "profiling scrabble-suggester"
+java -jar ../profiler/target/scala-2.11/profiler.jar $1 > /dev/null

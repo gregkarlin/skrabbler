@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar ../suggester/target/scala-2.11/suggester.jar $1 $2
